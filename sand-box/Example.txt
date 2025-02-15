@@ -1,0 +1,4 @@
+Auto	car	28.12.2014	5	4
+Vielen Dank	Many thanks	28.12.2014	5	5
+Junge	boy	28.12.2014	5	5
+Mädchen	girl	28.12.2014	4	4

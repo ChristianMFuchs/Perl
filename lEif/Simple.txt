@@ -1,0 +1,2 @@
+Haus	house	1	Noun	3	3
+Katze	cat	1	Noun	3	3

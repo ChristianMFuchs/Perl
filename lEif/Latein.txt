@@ -1,0 +1,2 @@
+Vater	pater	1	HW	0	0
+Wo	ubi	1	Attribut	0	0
